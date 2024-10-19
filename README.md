@@ -1,5 +1,5 @@
   
-![PRINXE-MD](https://readme-typing-svg.demolab.com?font=Garamond&size=20&pause=998&color=skyblue&background=white&right=true&random=true&width=465&lines=HELLO+EVERYONE+WELCOME+TO+GAGA+MD💙)
+![PRINXE-MD](https://readme-typing-svg.demolab.com?font=Garamond&size=20&pause=998&color=skyblue&background=white&right=true&random=true&width=465&lines=HELLO+EVERYONE+WELCOME+TO+GAGA+MD+POWERED+BY+RICHARDGAGA+AND+JUNE,JAY_DEE💙)
   
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -84,7 +84,7 @@
 ### 𝗟𝗜𝗖𝗘𝗡𝗦𝗘: [Clikc here](https://github.com/PRINCE-GDS/PRINXE-MD/blob/main/LICENSE)
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-### 💠 [`𝘼𝙑𝘼𝙄𝙇𝘼𝘽𝙇𝙀 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 𝙁𝙊𝙍 𝙋𝙍𝙄𝙉𝘾𝙀 𝘽𝙊𝙏`]
+### 💠 [`𝘼𝙑𝘼𝙄𝙇𝘼𝘽𝙇𝙀 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 𝙁𝙊𝙍 GAGA MD 𝘽𝙊𝙏`]
 #### 🌐 Arabic = ar 
 #### 🌐 Urdu = ur
 #### 🌐 English Global = en
