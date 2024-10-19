@@ -7,7 +7,7 @@
  
  <p align="center">  
   <a href="">
-    <img alt="𝙼𝙸𝙳𝚄𝙼𝙱𝙰 𝙶𝙰𝙶𝙰" width="600" height="600" src="https://files.catbox.moe/hwq7oc.jpeg">
+    <img alt="𝙼𝙸𝙳𝚄𝙼𝙱𝙰 𝙶𝙰𝙶𝙰" width="600" height="350" src="https://files.catbox.moe/hwq7oc.jpeg">
   </a>
 </p>
 
