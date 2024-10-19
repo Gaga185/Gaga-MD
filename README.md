@@ -1,31 +1,31 @@
   
 ![PRINXE-MD](https://readme-typing-svg.demolab.com?font=Garamond&size=20&pause=998&color=skyblue&background=white&right=true&random=true&width=465&lines=HELLO+EVERYONE+WELCOME+TO+GAGA+MD💙)
   
-<a><img src='https://files.catbox.moe/hwq7oc.jpeg'/></a>
-<a><img src='https://files.catbox.moe/hwq7oc.jpeg'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
  
  <p align="center">  
   <a href="">
-    <img alt="𝙼𝙸𝙳𝚄𝙼𝙱𝙰 𝙶𝙰𝙶𝙰" width="600" height="350" src="https://i.imgur.com/iI086tX.jpeg">
+    <img alt="𝙼𝙸𝙳𝚄𝙼𝙱𝙰 𝙶𝙰𝙶𝙰" width="600" height="350" src="https://files.catbox.moe/hwq7oc.jpeg">
   </a>
 </p>
 
 
 
 <p align="center">
-<a href="https://github.com/PRINCE-GDS/PRINXE-MD"><img title="Author" src="https://img.shields.io/badge/𝑷𝑹𝑰𝑵𝑪𝑬 𝑴𝑫 𝑩𝑶𝑻-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Gaga185/Gaga-MD"><img title="Author" src="https://img.shields.io/badge/𝙼𝙸𝙳𝚄𝙼𝙱𝙰 𝙶𝙰𝙶𝙰-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
-<a href="https://github.com/PRINCE-GDS?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/PRINCE-GDS?label=Followers&style=social"></a>
-<a href="https://github.com/PRINCE-GDS/PRINXE--MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/PRINCE-GDS/PRINCE-MD-BOT?&style=social"></a>
+<a href="https://github.com/Gaga185?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/PRINCE-GDS?label=Followers&style=social"></a>
+<a href="https://github.com/Gaga185/Gaga-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/PRINCE-GDS/PRINCE-MD-BOT?&style=social"></a>
 <a href="https://github.com/PRINCE-GDS/PRINXE--MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/PRINCE-GDS/PRINXE-MD?style=social"></a>
 <a href="https://github.com/PRINCE-GDS/PRINXE--MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PRINCE-GDS/PRINXE--MD?label=Watching&style=social"></a>
 </p>
 
 
- <h1 align="center">💠𝑷𝑹𝑰𝑵𝑪𝑬-𝑴𝑫-𝑩𝑶𝑻💠</h1>
+ <h1 align="center">GAGA MD💠</h1>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
