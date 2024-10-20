@@ -51,13 +51,13 @@
  
 ### <br>
 <p align="left">
-<a href="https://heroku.com/deploy?template=https://github.com/PRINCE-GDS/PRINXE--MD"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Gaga185/GAGA-MD"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render"></a>
 <p/>
  
 
 ### <br>
 <p align="left">
-<a href="https://repl.it/github/PRINCE-GDS/PRINXE--MD"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗥𝗘𝗣𝗟𝗜𝗧-orange?style=for-the-badge&logo=replit"></a>
+<a href="https://repl.it/github/Gaga185/GAGA-MD"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗥𝗘𝗣𝗟𝗜𝗧-orange?style=for-the-badge&logo=replit"></a>
 <p/>
 
 ### <br>
